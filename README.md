@@ -166,7 +166,7 @@ If you find an issue or have a useful improvement, feel free to open an issue or
 
 For detailed contribution guidelines, please read:
 
-[View CONTRIBUTING.md](https://github.com/unitysourcecode2026/unity-low-end-android-optimization-guide/blob/main/CONTRIBUTING.md)
+[CONTRIBUTING.md](https://github.com/unitysourcecode2026/unity-low-end-android-optimization-guide/blob/main/CONTRIBUTING.md)
 
 ## License
 
