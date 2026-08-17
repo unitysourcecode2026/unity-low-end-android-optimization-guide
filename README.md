@@ -4,6 +4,10 @@ A practical collection of Unity optimization techniques, C# examples, and perfor
 
 This repository focuses on common performance bottlenecks such as memory usage, draw calls, garbage collection, object pooling, texture optimization, mobile shaders, frame rate management, and profiling.
 
+![Unity Low-End Android Optimization Guide](https://github.com/unitysourcecode2026/unity-low-end-android-optimization-guide/raw/main/images/unity-low-end-android-optimization-guide-banner.webp)
+
+## What You'll Learn
+
 ## What You'll Learn
 
 This repository covers practical techniques for:
@@ -161,6 +165,10 @@ This repository is useful for:
 Suggestions, corrections, and additional optimization examples are welcome.
 
 If you find an issue or have a useful improvement, feel free to open an issue or submit a pull request.
+
+For detailed contribution guidelines, please read:
+
+[View CONTRIBUTING.md](https://github.com/unitysourcecode2026/unity-low-end-android-optimization-guide/blob/main/CONTRIBUTING.md)
 
 ## License
 
