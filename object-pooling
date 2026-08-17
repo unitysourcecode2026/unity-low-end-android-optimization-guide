@@ -1,3 +1,0 @@
-Creating and destroying objects repeatedly can cause unnecessary CPU work and garbage collection.
-
-Object pooling allows frequently used objects such as bullets, enemies, particles, and UI elements to be reused.
